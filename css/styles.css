@@ -1,0 +1,10 @@
+/* TODO: make the buttons float to the left in a 2x2 grid */
+#button-vert-spacer {
+  margin-bottom: 1ch;
+}
+#btn-big-font {
+  font-weight: 700;
+}
+#btn-small-font {
+  font-weight: 500;
+}
